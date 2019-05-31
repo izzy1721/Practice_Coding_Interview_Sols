@@ -1,5 +1,5 @@
 # Practice_Coding_Interview_Sols
-Questions I've practiced and studied to prepare forr interviews. Questions come from sources listed below: 
+Questions I've practiced and studied to prepare for interviews. Questions come from sources listed below: 
 
 
 
